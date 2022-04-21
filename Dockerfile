@@ -1,3 +1,3 @@
 FROM nginx
-EXPOSE 9000
+EXPOSE 80
 
